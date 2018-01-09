@@ -1,2 +1,2 @@
 # Song-Banks
-Varied Methods for Storing Favorite Songs ad Artists
+Varied Methods for Storing Favorite Songs and Artists
